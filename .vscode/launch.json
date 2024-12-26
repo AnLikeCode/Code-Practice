@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hoaian/Documents/Code-Practice/Search",
+      "program": "/Users/hoaian/Documents/Code-Practice/Search/build/Debug/outDebug"
+    }
+  ]
+}
